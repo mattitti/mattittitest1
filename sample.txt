@@ -1,2 +1,2 @@
 sample
-master checkout
+branchA mod
