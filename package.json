@@ -1,0 +1,15 @@
+{
+  "name": "travisTest",
+  "version": "0.0.1",
+  "description": "Travisのサンプルテスト",
+  "scripts": {
+    "test": "vows test/division-by-zero-test.js --spec"
+  },
+  "repository": "https://github.com/rei-m/travisTest",
+  "author": "Rei Matsushita",
+  "license": "MIT",
+  "dependencies": {
+    "vows":"*",
+    "assert":"*"
+  }
+}
